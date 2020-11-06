@@ -1,0 +1,7 @@
+I'm showing the steps here for pushing the data to the db
+
+1. First make sure that MySQL is running in the background
+2. Then run the exe (make sure to include the points file and xml near the exe)
+3. enter your desired database name, table and authentication details
+4. here, my root user does not have a password(just press enter)
+5. now the database, table are created and the data is inserted
